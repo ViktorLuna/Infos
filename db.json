@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "name": "project 1",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec elementum ipsum nulla, lobortis tempor est fermentum pulvinar. Fusce eleifend arcu non nisl condimentum pulvinar.",
+      "tags": ["comission","company portfolio"],
+      "dateCreated": "11/27/98"
+    },
+    {
+      "id": 2,
+      "name": "project 2",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec elementum ipsum nulla, lobortis tempor est fermentum pulvinar. Fusce eleifend arcu non nisl condimentum pulvinar.",
+      "tags": ["comission"],
+      "dateCreated": "11/27/98"
+    },
+    {
+      "id": 3,
+      "name": "project 3",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec elementum ipsum nulla, lobortis tempor est fermentum pulvinar. Fusce eleifend arcu non nisl condimentum pulvinar.",
+      "tags": ["e-commerce","portfolio"],
+      "dateCreated": "11/27/98"
+    },
+    {
+      "id": 4,
+      "name": "project 4",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec elementum ipsum nulla, lobortis tempor est fermentum pulvinar. Fusce eleifend arcu non nisl condimentum pulvinar.",
+      "tags": ["portfolio"],
+      "dateCreated": "11/27/98"
+    },
+    {
+      "id": 5,
+      "name": "project 5",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec elementum ipsum nulla, lobortis tempor est fermentum pulvinar. Fusce eleifend arcu non nisl condimentum pulvinar.",
+      "tags": ["e-commerce"],
+      "dateCreated": "11/27/98"
+    }
+]
