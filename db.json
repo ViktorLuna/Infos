@@ -1,4 +1,5 @@
-[
+{
+  "projects": [
     {
       "id": 1,
       "name": "project 1",
@@ -34,4 +35,5 @@
       "tags": ["e-commerce"],
       "dateCreated": "11/27/98"
     }
-]
+  ]
+}
