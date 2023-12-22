@@ -1,31 +1,31 @@
 {
   "projects": [
 	{ 
-		'id': 1,
-		'name': 'Teleprime Solutions Inc.', 
-		'link': 'https://shuashuaa.github.io', 
-		'image':'https://lh3.googleusercontent.com/drive-viewer/AEYmBYQMECzKAU16qPeul4M4AkFDaTaj9BrpGx6NtR9M1yUJIoZDNTfYWnQclX82ALKnjm44DS5MnC6fZ9qrg2VpOdDIgq10Fw=w1920-h927', 
-		'description': 'is a telemarketing, business processing, and comprehensive digital business servicing company portfolio.', 
-		'tags': 'Commission | Company Portfolio',
-		'status': 'On-going'
+		"id": 1,
+		"name": "Teleprime Solutions Inc.", 
+		"link": "https://shuashuaa.github.io", 
+		"image":"https://lh3.googleusercontent.com/drive-viewer/AEYmBYQMECzKAU16qPeul4M4AkFDaTaj9BrpGx6NtR9M1yUJIoZDNTfYWnQclX82ALKnjm44DS5MnC6fZ9qrg2VpOdDIgq10Fw=w1920-h927", 
+		"description": "is a telemarketing, business processing, and comprehensive digital business servicing company portfolio.", 
+		"tags": "Commission | Company Portfolio",
+		"status": "On-going"
 	},
 	{ 
-		'id': 2,
-		'name': 'Shiyou Sentaku Tool', 
-		'link': 'http://shiyou.hrd-s.com/home', 
-		'image':'https://lh3.googleusercontent.com/drive-viewer/AEYmBYTXMADBKdc5c-fNSoVR093pMMqnVr9oNTy4xr8ZnQCnsW8u3AsQfDkw69QUYdHO2k8KOdHw13FYR7rc7ibdO56Bs9GnaQ=w1920-h927', 
-		'description': 'a selection tool app for ichijo customers', 
-		'tags': 'Company System',
-		'status': 'On-going'
+		"id": 2,
+		"name": "Shiyou Sentaku Tool", 
+		"link": "http://shiyou.hrd-s.com/home", 
+		"image":"https://lh3.googleusercontent.com/drive-viewer/AEYmBYTXMADBKdc5c-fNSoVR093pMMqnVr9oNTy4xr8ZnQCnsW8u3AsQfDkw69QUYdHO2k8KOdHw13FYR7rc7ibdO56Bs9GnaQ=w1920-h927", 
+		"description": "a selection tool app for ichijo customers", 
+		"tags": "Company System",
+		"status": "On-going"
 	},
 	{ 
-		'id': 3,
-		'name': 'Amiresponsive', 
-		'link': '#', 
-		'image':'https://lh3.googleusercontent.com/drive-viewer/AEYmBYTPPhq-nppZWnOKaV0Y98taoNcL6L6M8UPwHkSMCf6S0P3Whox_syl12foUOU-9Semtmt46UmDaJwWtrrTUHqakE-0Yxw=w1920-h927', 
-		'description': 'is a tool for developers, especially front-end developers to check the responsiveness of their websites without using an actual gadgets. bu.. but not in prod!.', 
-		'tags': 'Personal | Experimental App',
-		'status': 'Finished'
+		"id": 3,
+		"name": "Amiresponsive", 
+		"link": "#", 
+		"image":"https://lh3.googleusercontent.com/drive-viewer/AEYmBYTPPhq-nppZWnOKaV0Y98taoNcL6L6M8UPwHkSMCf6S0P3Whox_syl12foUOU-9Semtmt46UmDaJwWtrrTUHqakE-0Yxw=w1920-h927", 
+		"description": "is a tool for developers, especially front-end developers to check the responsiveness of their websites without using an actual gadgets. bu.. but not in prod!.", 
+		"tags": "Personal | Experimental App",
+		"status": "Finished"
 	}
   ]
 }
