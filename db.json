@@ -26,6 +26,6 @@
 		'description': 'is a tool for developers, especially front-end developers to check the responsiveness of their websites without using an actual gadgets. bu.. but not in prod!.', 
 		'tags': 'Personal | Experimental App',
 		'status': 'Finished'
-	},
+	}
   ]
 }
