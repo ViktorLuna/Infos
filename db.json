@@ -1,9 +1,9 @@
 {
-	important-links: [
+	"important-links": [
 		{"id": 1, "name": "Am I Responsive?", "link": "http://localhost:5173/amiresponsive/", "icon": ""},
 	],
 		
-	social-links: [
+	"social-links": [
 		{"id": 1, "name": "linkedin", "link": "www.github.com/shuashuaa", "icon": ""},
 		{"id": 2, "name": "github", "link": "www.github.com/shuashuaa", "icon": ""},
 		{"id": 3, "name": "x", "link": "www.github.com/shuashuaa", "icon": ""},
