@@ -1,13 +1,13 @@
 {
 	"important-links": [
-		{"id": 1, "name": "Am I Responsive?", "link": "http://localhost:5173/amiresponsive/", "icon": ""}
+		{ "name": "Am I Responsive?", "link": "http://localhost:5173/amiresponsive/", "icon": "" }
 	],
 		
 	"social-links": [
-		{"id": 1, "name": "linkedin", "link": "www.github.com/shuashuaa", "icon": ""},
-		{"id": 2, "name": "github", "link": "www.github.com/shuashuaa", "icon": ""},
-		{"id": 3, "name": "x", "link": "www.github.com/shuashuaa", "icon": ""},
-		{"id": 4, "name": "e-mail", "link": "jovijoshuatania027@gmail.com", "icon": ""}
+		{ "name": "linkedin", "link": "www.github.com/shuashuaa", "icon": "" },
+		{ "name": "github", "link": "www.github.com/shuashuaa", "icon": "" },
+		{ "name": "x", "link": "www.github.com/shuashuaa", "icon": "" },
+		{ "name": "e-mail", "link": "jovijoshuatania027@gmail.com", "icon": "" }
 	],
 		
 	"stacks-best" : [
