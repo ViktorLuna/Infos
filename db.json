@@ -1,5 +1,5 @@
 {
-	"links" : [
+	"links" : {
 		"important-links": [
 			{ "name": "Am I Responsive?", "link": "http://localhost:5173/amiresponsive/", "icon": "" }
 		],
@@ -68,5 +68,5 @@
 		"projects-more" : [
 			
 		]
-	]
+	}
 }
