@@ -17,7 +17,7 @@
 				{ "name": "x", "link": "www.github.com/shuashuaa", "icon": "" },
 				{ "name": "e-mail", "link": "jovijoshuatania027@gmail.com", "icon": "" }
 			]
-		}
+		},
 		{ 
 			"id": 3, 
 			"stacks-best": [
@@ -27,7 +27,7 @@
 				{ "name": "VUETIFY", "image": "https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-light-atom.svg" },
 				{ "name": "LARAVEL", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" }
 			]
-		}
+		},
 		{ 
 			"id": 4, 
 			"stacks-more": [
@@ -50,7 +50,7 @@
 				{ "name": "YARNPKG", "image": "https://avatars.githubusercontent.com/u/22247014?s=280&v=4" },
 				{ "name": "SWEETALERT2", "image": "https://sgo.pm.ce.gov.br/_lib/libraries/grp/sweetalert/sweetalert2-9.7.2/assets/swal2-logo-square.png" }
 			]
-		}
+		},
 		{ 
 			"id": 5, 
 			"projects-best": [
@@ -82,7 +82,7 @@
 					"status": "Finished"
 				}
 			]
-		}
+		},
 		{ 
 			"id": 6, 
 			"projects-more": [
